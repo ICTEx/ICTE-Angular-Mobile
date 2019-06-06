@@ -3,7 +3,7 @@
      <img height="100" src="http://icbe.io/images/htutoken.gif" alt="htu.io">
    </a>
    <a href="http://icte.io" target="_blank">
-     <img alt="icte.io">
+     <img height="100" src="http://icbe.io/images/icte.png" alt="icte.io">
    </a>
  </p>
  <h1 align="center">ICTE Angular Mobile</h1>
